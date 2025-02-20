@@ -17,20 +17,21 @@
 		Instance T2.micro
 		image     ubuntu
 		key pair  .pem
-		storage   default <img width="937" alt="SC-14" src="https://github.com/user-attachments/assets/c144c7ea-56ea-4aa8-bf9e-3189af2c5b76" />
-<img width="940" alt="SC-13" src="https://github.com/user-attachments/assets/a4226fff-eb09-478e-ac3f-bb8a53117583" />
-<img width="586" alt="SC-12" src="https://github.com/user-attachments/assets/d6f34c48-4427-4a7c-baa6-302d925d7fdd" />
-<img width="466" alt="SC-11" src="https://github.com/user-attachments/assets/df6c424c-1941-4787-90be-c830b3949037" />
-<img width="617" alt="SC-10" src="https://github.com/user-attachments/assets/f78ca745-8ee8-4e20-a333-d5afcec8bd36" />
-<img width="893" alt="SC-9" src="https://github.com/user-attachments/assets/e910ab45-10aa-41cc-8e59-0d2be824037f" />
-<img width="581" alt="SC-8" src="https://github.com/user-attachments/assets/24197c8f-09d0-4fb2-9174-aab8a4d07e45" />
-<img width="914" alt="SC-7" src="https://github.com/user-attachments/assets/e0f291cd-546d-4587-8276-773b3b2866c1" />
-<img width="827" alt="SC-6" src="https://github.com/user-attachments/assets/ef21e3d3-fa5c-469a-b3fb-09617c495ac8" />
-<img width="866" alt="SC-5" src="https://github.com/user-attachments/assets/5e0f2478-b072-4bc5-9dd6-3fdfe2b05a4f" />
-<img width="938" alt="SC-4" src="https://github.com/user-attachments/assets/309e9dc7-dbd4-429b-a38f-f3f6f507914d" />
-<img width="635" alt="SC-3" src="https://github.com/user-attachments/assets/ca4ec42f-b778-4203-bd09-76d7389cad93" />
-<img width="654" alt="SC-2" src="https://github.com/user-attachments/assets/b3226890-229e-4825-ae34-2703d71c737b" />
-<img width="168" alt="SC-1" src="https://github.com/user-attachments/assets/1685d0c3-e14f-48f8-a5fd-771afb09f0c6" />
+		storage   default
+<img width="937" alt="SC-14" src="https://github.com/user-attachments/assets/7cf96202-1d98-4250-bae6-f6583ab94b80" />
+<img width="940" alt="SC-13" src="https://github.com/user-attachments/assets/883b44db-2662-49b9-a7eb-c2fae4e371ac" />
+<img width="586" alt="SC-12" src="https://github.com/user-attachments/assets/78609833-650d-4bc2-869d-09d4429fae8a" />
+<img width="466" alt="SC-11" src="https://github.com/user-attachments/assets/3d31be84-e5ec-47da-bf36-d9c30f664b51" />
+<img width="617" alt="SC-10" src="https://github.com/user-attachments/assets/a1076bbe-13c2-4b14-9287-fc934db3810e" />
+<img width="893" alt="SC-9" src="https://github.com/user-attachments/assets/4ee91c1c-9366-4a8d-9be1-3af9497a9e44" />
+<img width="581" alt="SC-8" src="https://github.com/user-attachments/assets/7d872253-8cf5-47af-a621-663e16bc0695" />
+<img width="914" alt="SC-7" src="https://github.com/user-attachments/assets/5a56c485-0a9b-46d4-a605-37adaf0553b0" />
+<img width="827" alt="SC-6" src="https://github.com/user-attachments/assets/196c66ad-1d4f-4f76-91de-3f27b31fbbc9" />
+<img width="866" alt="SC-5" src="https://github.com/user-attachments/assets/6a555918-54ac-4809-9064-845361dca4eb" />
+<img width="938" alt="SC-4" src="https://github.com/user-attachments/assets/52123ba5-069d-4e85-8241-99288d2d429d" />
+<img width="635" alt="SC-3" src="https://github.com/user-attachments/assets/c61ddb41-49de-4fad-8dc6-c9dac9b1daec" />
+<img width="654" alt="SC-2" src="https://github.com/user-attachments/assets/e96991e5-cf88-4d4d-bec9-e36f76512123" />
+<img width="168" alt="SC-1" src="https://github.com/user-attachments/assets/3b8a93ad-9f76-40dc-9e34-c4764d942ebd" />
 
   
 
