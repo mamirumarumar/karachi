@@ -1,3 +1,8 @@
+<img width="937" alt="SC-14" src="https://github.com/user-attachments/assets/6242fa72-0bdf-4ccf-989c-dea75e228c9e" />
+<img width="940" alt="SC-13" src="https://github.com/user-attachments/assets/3dad044e-35cb-4afc-9e5a-474f7a32ff0b" />
+<img width="466" alt="SC-11" src="https://github.com/user-attachments/assets/fce7cafc-b39f-4acd-a26f-5e7e7604d0d7" />
+<img width="617" alt="SC-10" src="https://github.com/user-attachments/assets/3aa0c6f6-783e-4b48-8f7c-067c79a17d3d" />
+<img width="893" alt="SC-9" src="https://github.com/user-attachments/assets/84b8001a-84ea-44b3-a918-5c81370858c5" />
 # Mobile WebApp Development Amazone Linux
 
 ## Description:
